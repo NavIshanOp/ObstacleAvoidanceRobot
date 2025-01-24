@@ -89,4 +89,4 @@ The code is written in Arduino C++ and utilizes the Servo library. The main func
 - Use a stable power supply for the motors to ensure consistent performance.
 
 ## License
-This project is open-source and free to use for educational and personal projects.
+This project is open-source and free to use for educational and personal projects under MIT License.
